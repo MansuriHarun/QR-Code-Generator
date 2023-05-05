@@ -8,7 +8,8 @@ This repository contains a simple HTML, CSS, and JavaScript code to generate QR 
 4. Click on the "Generate QR Code" button.
 5. The QR code image will be displayed in the image box below the input field.
 
-# Note: If the input field is empty, an error message will be displayed and the input field will shake to indicate the error.
+# Note 
+If the input field is empty, an error message will be displayed and the input field will shake to indicate the error.
 
 # Credits
 The QR code generation API used in this project is provided by QRServer.com. We give credit and thanks to QRServer.com for providing this service.
